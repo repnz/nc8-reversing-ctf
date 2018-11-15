@@ -1,0 +1,2 @@
+class SourceAssemblyError(Exception):
+    pass
